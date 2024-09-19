@@ -11,7 +11,7 @@ namespace SeleniumConcepts2
 {
     public class Demo2FbSignup
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             IWebDriver driver=new ChromeDriver();
 

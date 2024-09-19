@@ -24,7 +24,8 @@ namespace EmployeeDashboard4
         public Employee(int empID, string empName)
         {
             Console.WriteLine("Constructor created with parameters");
-            this.empID = empID;
+            empID = empID;
+            Console.WriteLine("EmployeeID------------"+empID);
             this.empName = empName;
 
         }
