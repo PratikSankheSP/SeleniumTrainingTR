@@ -1,0 +1,14 @@
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\bin\Debug\net8.0\CSharpConcepts3.exe
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\bin\Debug\net8.0\CSharpConcepts3.deps.json
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\bin\Debug\net8.0\CSharpConcepts3.runtimeconfig.json
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\bin\Debug\net8.0\CSharpConcepts3.dll
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\bin\Debug\net8.0\CSharpConcepts3.pdb
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\CSharpConcepts3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\CSharpConcepts3.AssemblyInfoInputs.cache
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\CSharpConcepts3.AssemblyInfo.cs
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\CSharpConcepts3.csproj.CoreCompileInputs.cache
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\CSharpConcepts3.dll
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\refint\CSharpConcepts3.dll
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\CSharpConcepts3.pdb
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\CSharpConcepts3.genruntimeconfig.cache
+C:\Users\6124596\OneDrive - Thomson Reuters Incorporated\iSquad\Selenium Training\Day1_SourceCodes\AutomationSolution\ConsoleApp2\obj\Debug\net8.0\ref\CSharpConcepts3.dll
