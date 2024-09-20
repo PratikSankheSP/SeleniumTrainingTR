@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDashboard4", "Emplo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept1", "SeleniumProgram1\SeleniumConcept1.csproj", "{BDCD065F-4927-477D-BE2C-574606CDA7C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConcepts2", "SeleniumConcepts2\SeleniumConcepts2.csproj", "{E421B150-552E-4386-BA7E-060B4545F46B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcepts2", "SeleniumConcepts2\SeleniumConcepts2.csproj", "{E421B150-552E-4386-BA7E-060B4545F46B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4_MethodOverloading", "ConsoleApp4_MethodOverloading\ConsoleApp4_MethodOverloading.csproj", "{C48669CC-8D6C-42CC-BCF8-B582D4E3D2DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4_MethodOverloading", "ConsoleApp4_MethodOverloading\ConsoleApp4_MethodOverloading.csproj", "{C48669CC-8D6C-42CC-BCF8-B582D4E3D2DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sel_UnitTestProject1", "Sel_UnitTestProject1\Sel_UnitTestProject1.csproj", "{F849BC63-F8A7-4B3C-A3B2-C96BF0A83BFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C48669CC-8D6C-42CC-BCF8-B582D4E3D2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C48669CC-8D6C-42CC-BCF8-B582D4E3D2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C48669CC-8D6C-42CC-BCF8-B582D4E3D2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F849BC63-F8A7-4B3C-A3B2-C96BF0A83BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F849BC63-F8A7-4B3C-A3B2-C96BF0A83BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F849BC63-F8A7-4B3C-A3B2-C96BF0A83BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F849BC63-F8A7-4B3C-A3B2-C96BF0A83BFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,7 +12,7 @@ namespace SeleniumConcepts2
 {
     public class SalesForce_Assign2
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             IWebDriver driver=new ChromeDriver();
             driver.Manage().Window.Maximize();

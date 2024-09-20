@@ -10,9 +10,9 @@ namespace SeleniumConcepts2
 {
     public class Assign1
     {
-           static void Main3(string[] args)
+           static void Main2(string[] args)
             {
-                ChromeDriver driver = new ChromeDriver();
+                IWebDriver driver = new ChromeDriver();
 
                 driver.Url = "https://www.db4free.net/phpMyAdmin/";
                 driver.Manage().Window.Maximize();
@@ -20,6 +20,11 @@ namespace SeleniumConcepts2
             driver.FindElement(By.XPath("//input[@id='input_username']")).SendKeys("admin");
             driver.FindElement(By.XPath("//input[@name='pma_password']")).SendKeys("admin123");
             driver.FindElement(By.XPath("//input[@value='Log in']")).Click();
+
+            string actualError = driver.FindElement(By.XPath("//div[contains(text(),'Access denied for')]")).Text;
+            Console.WriteLine("Error Message is "+actualError);
+
+
 
 
 

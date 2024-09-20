@@ -12,7 +12,7 @@ namespace SeleniumConcepts2
     public class FbLogin
 
     {
-        static void Main1(string[] args)
+        static void Main2(string[] args)
         {
 
 
