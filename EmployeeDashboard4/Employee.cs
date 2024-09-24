@@ -71,6 +71,24 @@ namespace EmployeeDashboard4
             }
         }
 
+        public double EmployeeSalary
+        {
+            get
+            {
+                return empSalary;
+            }
+            set
+            {
+                if (value > 10000)
+                {
+                    empSalary = value;
+                }
+                else
+                {
+                    Console.WriteLine("Enter salary more than 10000");
+                }
+            }
+        }
 
 
         public void PrintEmployeeDetails()

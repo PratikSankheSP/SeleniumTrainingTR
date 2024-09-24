@@ -10,9 +10,11 @@ namespace SeleniumConcepts2
 {
     public class Assign1
     {
-           static void Main2(string[] args)
+           
+           static void Main(string[] args)
             {
                 IWebDriver driver = new ChromeDriver();
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(20);
 
                 driver.Url = "https://www.db4free.net/phpMyAdmin/";
                 driver.Manage().Window.Maximize();

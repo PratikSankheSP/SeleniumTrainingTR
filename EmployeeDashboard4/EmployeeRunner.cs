@@ -25,6 +25,7 @@ namespace EmployeeDashboard4
             emp2.EmployeeID = 102; // set value for property
             emp2.empName = "Peter";
             emp2.empSalary =7000 ;
+            emp2.EmployeeSalary = 12000;
             emp2.EmployeePerformance = "A";// set value for property
 
             Console.WriteLine(emp1.EmployeeID);
@@ -32,6 +33,7 @@ namespace EmployeeDashboard4
 
             emp1.PrintEmployeeDetails();
             emp1.Allocatebonus();
+            Console.WriteLine(emp1.EmployeeSalary);
             emp1.PrintEmployeeDetails();
 
             emp2.PrintEmployeeDetails();
